@@ -1,0 +1,15 @@
+{
+  "reference": "QT-1042",
+  "issued_on": "2026-11-05",
+  "valid_until": "2026-11-19",
+  "seller": "Northline Studio | استوديو نورث لاين",
+  "customer": "Cedar Trading | شركة الأرز للتجارة",
+  "language": "bilingual",
+  "currency": "EGP",
+  "items": [
+    {"description": "Website design | تصميم الموقع", "quantity": "1", "unit_price": "12000.00"},
+    {"description": "Product photography | تصوير المنتجات", "quantity": "3", "unit_price": "1500.00"},
+    {"description": "Launch support | دعم الإطلاق", "quantity": "2.5", "unit_price": "600.00"}
+  ],
+  "notes": "Delivery within 10 working days. | التسليم خلال ١٠ أيام عمل."
+}
